@@ -1,0 +1,3 @@
+helloMoog <- "Hello!"
+
+print(helloMoog)
